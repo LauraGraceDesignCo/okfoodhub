@@ -1,0 +1,31 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3639399, 2018-09-10T20:13:56-0400
+ *
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are
+ * explicitly restricted from using the Licensed Webfonts(s).
+ *
+ * You may obtain a valid license at the URLs below.
+ *
+ * Webfont: DaftBrush-Text by PintassilgoPrints
+ * URL: https://www.myfonts.com/fonts/pintassilgo/daft-brush/text/
+ * Copyright: By PintassilgoPrints, 2017. All rights reserved. http://www.pintassilgoprints.com
+ * Licensed pageviews: 20,000
+ *
+ *
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3639399
+ *
+ * © 2018 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/378867");
+
+
+@font-face {
+    font-family: 'DaftBrush-Text';
+    src: url('../webfonts/custom fonts/378867_0_0.eot');
+    src: url('../webfonts/custom fonts/378867_0_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/custom fonts/378867_0_0.woff2') format('woff2'),url('../webfonts/custom fonts/378867_0_0.woff') format('woff'),url('../webfonts/custom fonts/378867_0_0.ttf') format('truetype');
+}

@@ -1,0 +1,67 @@
+.white			{color: #fff;}
+.black			{color: #000;}
+.grey       	{color: rgba(109,110,113,1.00);}
+.orange     	{color: rgba(237,182,110,1.00);}
+.blue        	{color: rgba(129,206,198,1.00);}
+
+
+
+.bg-white		{background-color: #fff;}
+.bg-black		{background-color: #000;}
+.bg-grey       	{background-color: rgba(109,110,113,1.00);}
+.bg-orange     	{background-color: rgba(237,182,110,1.00);}
+.bg-blue    	{background-color: rgba(129,206,198,1.00);}
+
+
+/*Fonts*/
+
+.h2-daft{
+font-family: 'DaftBrush-Text';
+font-weight: normal;
+font-style: normal;
+letter-spacing: 1.2px;
+font-size: 37px;
+}
+
+.p-century-reg{
+    font-family: 'century-gothic', sans-serif;
+
+}
+
+.h3-century-bold{
+    font-family: 'century-gothic', sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    letter-spacing: .9px;
+}
+
+
+/*Text Alignment*/
+.textleft{ text-align: left!important;}
+.textright{ text-align: right!important;}
+.textjustify{text-align: justify!important;}
+.textcenter{ text-align: center!important;}
+
+/*Bottom marigns*/
+.nomargin {margin:0!important;}
+.smmargin {margin-bottom: 20px!important;}
+.mdmargin {margin-bottom: 40px!important;}
+.lgmargin {margin-bottom: 60px!important;}
+.xlmargin {margin-bottom: 80px!important;}
+
+
+/*Box padding - should be the same throughout webpage*/
+.nopadding{padding-top: 0px; padding-bottom: 0px!important;}
+.smpadding{padding-top: 20px; padding-bottom: 20px!important;}
+.mdpadding{padding-top: 40px; padding-bottom: 40px!important;}
+.lgpadding{padding-top: 60px; padding-bottom: 60px!important;}
+.xlpadding{padding-top: 80px; padding-bottom: 80px!important;}
+.nopadding-bottom{padding-bottom: 0px!important;}
+.nopadding-top{padding-top: 0px!important;}
+
+
+
+/*Image Alignment*/
+.alignleft{float: left!important;}
+.alignright{float:right!important;}
+.aligncenter{margin-left: auto; margin-right: auto!important;}

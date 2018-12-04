@@ -1,0 +1,57 @@
+
+[21-Nov-2018 02:40:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method User::exists() in /home/okfoodhublauraro/public_html/views/users/add.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/okfoodhublauraro/public_html/views/users/add.php on line 12
+[21-Nov-2018 02:41:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method User::exists() in /home/okfoodhublauraro/public_html/views/users/add.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/okfoodhublauraro/public_html/views/users/add.php on line 12
+[21-Nov-2018 02:43:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method User::exists() in /home/okfoodhublauraro/public_html/views/users/add.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/okfoodhublauraro/public_html/views/users/add.php on line 11
+[21-Nov-2018 02:47:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method User::exists() in /home/okfoodhublauraro/public_html/views/users/add.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/okfoodhublauraro/public_html/views/users/add.php on line 11
+[21-Nov-2018 03:24:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method User::exists() in /home/okfoodhublauraro/public_html/views/users/add.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/okfoodhublauraro/public_html/views/users/add.php on line 11
+[21-Nov-2018 04:06:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/okfoodhublauraro/public_html/models/user.php:78
+Stack trace:
+#0 /home/okfoodhublauraro/public_html/views/users/add.php(10): User->add()
+#1 {main}
+  thrown in /home/okfoodhublauraro/public_html/models/user.php on line 78
+[22-Nov-2018 17:09:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function exists() on null in /home/okfoodhublauraro/public_html/views/users/add.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/okfoodhublauraro/public_html/views/users/add.php on line 14
+[22-Nov-2018 17:13:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function exists() on null in /home/okfoodhublauraro/public_html/views/users/add.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/okfoodhublauraro/public_html/views/users/add.php on line 14
+[22-Nov-2018 17:14:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function exists() on null in /home/okfoodhublauraro/public_html/views/users/add.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/okfoodhublauraro/public_html/views/users/add.php on line 14
+[30-Nov-2018 19:23:34 UTC] PHP Warning:  require_once(../elements/login-page.php): failed to open stream: No such file or directory in /home/okfoodhublauraro/public_html/views/users/edit.php on line 25
+[30-Nov-2018 19:23:34 UTC] PHP Fatal error:  require_once(): Failed opening required '../elements/login-page.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/okfoodhublauraro/public_html/views/users/edit.php on line 25
+[30-Nov-2018 21:11:05 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/okfoodhublauraro/public_html/views/users/edit.php on line 55
+[30-Nov-2018 21:15:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method User::edit() in /home/okfoodhublauraro/public_html/views/users/edit.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/okfoodhublauraro/public_html/views/users/edit.php on line 7
+[04-Dec-2018 19:04:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method User::exists() in /home/okfoodhublauraro/public_html/views/users/add.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/okfoodhublauraro/public_html/views/users/add.php on line 16
+[04-Dec-2018 19:04:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method User::exists() in /home/okfoodhublauraro/public_html/views/users/add.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/okfoodhublauraro/public_html/views/users/add.php on line 16
+[04-Dec-2018 19:07:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method User::exists() in /home/okfoodhublauraro/public_html/views/users/add.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/okfoodhublauraro/public_html/views/users/add.php on line 16
